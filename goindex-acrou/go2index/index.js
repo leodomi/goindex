@@ -65,7 +65,7 @@ var authConfig = {
 };
 
 var themeOptions = {
-  cdn: "https://cdn.jsdelivr.net/gh/alx-xlx/goindex",
+  cdn: "https://cdn.jsdelivr.net/gh/leodomi/goindex",
   // 主题版本号
   version: "2.0.5-darkmode-0.1",
   //可选默认系统语言:en/zh-chs/zh-cht
